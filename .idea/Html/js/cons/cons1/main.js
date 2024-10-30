@@ -12,7 +12,7 @@ let surName = 'Ollo';
 console.log(`${name} ${surName}`);  //інтерполяція ----->>>>  ``
 
 
-let xxx = 12345678;
+let xxx = 111;
 xxx = 'Ivan';
 console.log(xxx);
 
